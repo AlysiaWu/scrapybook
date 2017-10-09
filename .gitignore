@@ -5,6 +5,7 @@ project.egg-info
 setup.py
 *.swp
 *.cache
+/.idea
 /generate/properties/*
 
 # C extensions
